@@ -2,6 +2,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
     color: deeppink;
+    background: #ffddf6;
 }
 
 a {
@@ -16,5 +17,4 @@ img {
 
 h1 {
     scale: 150%;
-
 }
