@@ -16,5 +16,6 @@ img {
 }
 
 h1 {
-    scale: 150%;
+    margin: 12px;
+    font-size: 300%;
 }
